@@ -1,4 +1,5 @@
 """
+
 #Ejercicio1
 from random import randint
 
